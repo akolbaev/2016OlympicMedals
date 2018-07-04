@@ -1,13 +1,5 @@
 # 2016OlympicMedals
 
-[RemoteTestNG] detected TestNG version 6.14.2
-SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
-SLF4J: Defaulting to no-operation (NOP) logger implementation
-SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
-Starting ChromeDriver 2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab) on port 42280
-Only local connections are allowed.
-Jul 04, 2018 2:51:23 AM org.openqa.selenium.remote.ProtocolHandshake createSession
-INFO: Detected dialect: OSS
 Original: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 Expected: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 Above list is in ascending order.
