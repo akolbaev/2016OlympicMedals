@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11895" started-at="2018-07-04T07:51:19Z" finished-at="2018-07-04T07:51:31Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11895" started-at="2018-07-04T07:51:19Z" finished-at="2018-07-04T07:51:31Z">
+      <class name="com.olympicMedals.OlympicMedals2016">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.olympicMedals.OlympicMedals2016@42e26948]" name="setUp" is-config="true" duration-ms="5330" started-at="2018-07-04T07:51:19Z" finished-at="2018-07-04T07:51:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="test1Ranking()[pri:0, instance:com.olympicMedals.OlympicMedals2016@42e26948]" name="test1Ranking" duration-ms="5574" started-at="2018-07-04T07:51:24Z" finished-at="2018-07-04T07:51:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1Ranking -->
+        <test-method status="PASS" signature="test2TheMost()[pri:0, instance:com.olympicMedals.OlympicMedals2016@42e26948]" name="test2TheMost" duration-ms="2" started-at="2018-07-04T07:51:30Z" finished-at="2018-07-04T07:51:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2TheMost -->
+        <test-method status="PASS" signature="test3CountryByMedal()[pri:0, instance:com.olympicMedals.OlympicMedals2016@42e26948]" name="test3CountryByMedal" duration-ms="1" started-at="2018-07-04T07:51:30Z" finished-at="2018-07-04T07:51:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3CountryByMedal -->
+        <test-method status="PASS" signature="test4GetIndex()[pri:0, instance:com.olympicMedals.OlympicMedals2016@42e26948]" name="test4GetIndex" duration-ms="0" started-at="2018-07-04T07:51:30Z" finished-at="2018-07-04T07:51:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4GetIndex -->
+        <test-method status="PASS" signature="test5sumOfBronze18()[pri:0, instance:com.olympicMedals.OlympicMedals2016@42e26948]" name="test5sumOfBronze18" duration-ms="2" started-at="2018-07-04T07:51:30Z" finished-at="2018-07-04T07:51:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test5sumOfBronze18 -->
+        <test-method status="PASS" signature="closeAll()[pri:0, instance:com.olympicMedals.OlympicMedals2016@42e26948]" name="closeAll" is-config="true" duration-ms="965" started-at="2018-07-04T07:51:30Z" finished-at="2018-07-04T07:51:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeAll -->
+      </class> <!-- com.olympicMedals.OlympicMedals2016 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
